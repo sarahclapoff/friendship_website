@@ -1,0 +1,20 @@
+The Idea:
+
+1. website.
+	just a button and email address/form to submit pics
+
+2. email/website form.
+	email "send an email with photo of friends. in the body, write a ~150 word letter that explains the story of the photo. the entire body of the email will be displayed."
+
+3. display random picture & story when button on website clicked.
+	maybe also play music and show some cute hearts
+
+4. other notes:
+	- scan email & process images when button pressed.
+	- save photos in the same way as astronomy. ie save photo and story with the same identifier, write txt doc of identifiers, and access them that way.
+
+
+To Do:
+1. make website
+2. make email/photo organizing script
+3. 
